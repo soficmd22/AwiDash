@@ -6,3 +6,7 @@ body {
 .markdown-body {
   background-color: red;
 }
+
+* {
+  background-color: red !important;
+}

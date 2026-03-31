@@ -1,12 +1,5 @@
 
-body {
-  background-color: red;
-}
-
-.markdown-body {
-  background-color: red;
-}
-
-* {
+.dynamic-text,
+.dynamic-text * {
   background-color: red !important;
 }
